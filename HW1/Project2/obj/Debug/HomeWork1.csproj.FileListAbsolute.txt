@@ -1,0 +1,10 @@
+D:\папка\Project2\Project2\bin\Debug\Project2.exe.config
+D:\папка\Project2\Project2\bin\Debug\Project2.exe
+D:\папка\Project2\Project2\bin\Debug\Project2.pdb
+D:\папка\Project2\Project2\obj\Debug\Project2.exe
+D:\папка\Project2\Project2\obj\Debug\Project2.pdb
+D:\папка\HW1\Project2\bin\Debug\Project2.exe.config
+D:\папка\HW1\Project2\bin\Debug\Project2.exe
+D:\папка\HW1\Project2\bin\Debug\Project2.pdb
+D:\папка\HW1\Project2\obj\Debug\Project2.exe
+D:\папка\HW1\Project2\obj\Debug\Project2.pdb
