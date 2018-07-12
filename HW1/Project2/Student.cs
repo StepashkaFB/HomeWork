@@ -29,15 +29,15 @@ namespace HomeWork1
         public double GetAvgMark()
 		{
 			double AvgMark = 0;
-			    try {
-				    for (int Counter = 0; Counter < Amount; Counter++)
+			try {
+				for (int Counter = 0; Counter < Amount; Counter++)
 				    {
                         		AvgMark += Marks1[Counter]._ValueOfMark;
 				    }
                 		    Console.WriteLine();
-			    }
-			    catch { DivideByZeroException e; }	      
-		    return AvgMark / Amount; 
+			    } 
+			catch { DivideByZeroException e; }	         
+		    	return AvgMark / Amount; 
 		}
 	public void ResetAllMarks()
 		{
