@@ -32,13 +32,11 @@ namespace HomeWork1
 			    try {
 				    for (int Counter = 0; Counter < Amount; Counter++)
 				    {
-                        //Console.Write(Marks1[Counter]._ValueOfMark + " ");
-                        AvgMark += Marks1[Counter]._ValueOfMark;
+                        		AvgMark += Marks1[Counter]._ValueOfMark;
 				    }
-                Console.WriteLine();
+                		    Console.WriteLine();
 			    }
-			    catch { DivideByZeroException e; }	
-            
+			    catch { DivideByZeroException e; }	      
 		    return AvgMark / Amount; 
 		}
 		public void ResetAllMarks()
@@ -75,7 +73,6 @@ namespace HomeWork1
                 
                 }
             S1.EnterMarks(Marks1);
-
             //	Demonstration
             Console.WriteLine();
 			Console.WriteLine("AvgMark = {0:0.##}", S1.GetAvgMark());
@@ -83,7 +80,6 @@ namespace HomeWork1
 			S1.ResetAllMarks();
 			Console.WriteLine("AvgMark = {0:0.##}", S1.GetAvgMark());
             Console.ReadLine();
-		}
-              
+		}      
     }
 }
