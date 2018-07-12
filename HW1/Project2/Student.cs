@@ -39,7 +39,7 @@ namespace HomeWork1
 			    catch { DivideByZeroException e; }	      
 		    return AvgMark / Amount; 
 		}
-		public void ResetAllMarks()
+	public void ResetAllMarks()
 		{
 			for (int Counter = 0; Counter < Amount; Counter++)
 			{
@@ -47,9 +47,8 @@ namespace HomeWork1
 			}
 		}
 
-		static void Main()
-		{
-			
+	static void Main()
+		{	
             string FName = "Stepan";
             string MName = "BE";
             string LName = "GG";
@@ -69,8 +68,7 @@ namespace HomeWork1
                     Name = Console.ReadLine();
                     Console.WriteLine("Enter the  mark, namber of {0}", Counter + 1);
                     Value = int.Parse(Console.ReadLine());
-                    Marks1[Counter] = new Mark(Name, Value);
-                
+                    Marks1[Counter] = new Mark(Name, Value);       
                 }
             S1.EnterMarks(Marks1);
             //	Demonstration
