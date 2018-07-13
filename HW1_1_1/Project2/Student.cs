@@ -50,5 +50,5 @@ namespace HomeWork1
 				Marks1[Counter]._ValueOfMark = 0;
 			}
 		}           
-    }
+    } 
 }	 
