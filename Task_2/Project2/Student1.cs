@@ -40,7 +40,6 @@ namespace HomeWork1
 			catch (DivideByZeroException ex) 
 			{
 				Console.WriteLine(ex.Message);
-				return 0;
 			}
 			return AvgMark;
 		}
