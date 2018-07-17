@@ -1,0 +1,6 @@
+d:\папка\Task3\Task3\bin\Debug\Task3.exe.config
+d:\папка\Task3\Task3\bin\Debug\Task3.exe
+d:\папка\Task3\Task3\bin\Debug\Task3.pdb
+d:\папка\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+d:\папка\Task3\Task3\obj\Debug\Task3.exe
+d:\папка\Task3\Task3\obj\Debug\Task3.pdb
