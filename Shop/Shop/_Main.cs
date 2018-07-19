@@ -36,10 +36,10 @@ namespace Shop
                 int choise = int.Parse(Console.ReadLine());
                 switch (choise)
                 {
-                    case 1:
+                    case 1://Show all available Product
                         ShopMain.ShowAllProducts();
                         break;
-                    case 2:
+                    case 2://Add products in Basket 
                         try
                         {
                             Console.WriteLine();
@@ -58,7 +58,7 @@ namespace Shop
                     case 3:
                         customer1.ShowBasket();
                         break;
-                    case 4:
+                    case 4:// Show balance
                         Console.WriteLine(customer1._Money);
                         break;
                     case 5:
