@@ -15,7 +15,7 @@ namespace Shop
             get { return FullName; }
         }
         int Money;
-        int StartMoney;
+        int StartMoney;//uses for money back to initial value
         public int _StartMoney
         {
             get { return StartMoney; }
@@ -26,7 +26,7 @@ namespace Shop
             get { return Money; }
             set { Money = value; }
         }
-        public List<Product> BasketOfProducts = new List<Product>();
+        public List<Product> BasketOfProducts = new List<Product>();//Our main Basket
 
         public Customer(string FullName, int Money)
         {
@@ -34,9 +34,9 @@ namespace Shop
             this.Money = Money;
             StartMoney = Money;
         }
-        public void ShowBasket()
+        public void ShowBasket()//Output of goods in the basket
         {
-            foreach(Product product in BasketOfProducts)//output
+            foreach(Product product in BasketOfProducts)
             {
                 Console.Write(Counter++); Console.Write(" -- ");
                 Console.WriteLine("Name: {0}  Amount: {1}  TotalPrice: {2}", product._Name, product._Amount, (product._Price* product._Amount));
