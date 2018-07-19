@@ -33,7 +33,7 @@ namespace Shop
         {
             customer.BasketOfProducts.Clear();
             products.Clear();
-            customer._Money = customer._StartMoney;
+            customer._Money = customer._StartMoney;//money back to initial value
         }
     }
 }
