@@ -13,14 +13,14 @@ namespace Shop
         {
             get { return NameShop; }
         }
-        public List<Product> AllProducts = new List<Product>();
+        public List<Product> AllProducts = new List<Product>();//Main Shop list
        
         public Shopclass(string Name, List<Product> products)
         {
             NameShop = Name;
             AllProducts = products;
         }
-        public void RecovoryList(ref List<Product> products)
+        public void RecovoryList(ref List<Product> products)//Used for recovery
         {
             AllProducts = products;
         }
@@ -39,7 +39,7 @@ namespace Shop
             AllProducts.Add(new Product(name, amount, price));
             TempL.Add(new Product(name, amount, price));
         }
-        public void AddToBasket(Customer customer, Order order, int number, int quantity)//Client Basket
+        public void AddToBasket(Customer customer, Order order, int number, int quantity)//Order Basket
         {
             int temp = AllProducts[number - 1]._Amount;
             if ((temp -= quantity) < 0)//Check for availability
