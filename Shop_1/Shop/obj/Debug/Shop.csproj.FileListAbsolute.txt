@@ -1,0 +1,6 @@
+D:\папка\Shop\Shop\bin\Debug\Shop.exe.config
+D:\папка\Shop\Shop\bin\Debug\Shop.exe
+D:\папка\Shop\Shop\bin\Debug\Shop.pdb
+D:\папка\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+D:\папка\Shop\Shop\obj\Debug\Shop.exe
+D:\папка\Shop\Shop\obj\Debug\Shop.pdb
