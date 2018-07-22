@@ -8,7 +8,6 @@ namespace TASK4
 {
     interface IColor
     {
-        string Color{ get; set; }
-       
+        string Color{ get; set; }   
     }
 }
