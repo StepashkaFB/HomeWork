@@ -1,0 +1,12 @@
+D:\папка\TASK4\TASK4\bin\Debug\TASK4.exe.config
+D:\папка\TASK4\TASK4\bin\Debug\TASK4.exe
+D:\папка\TASK4\TASK4\bin\Debug\TASK4.pdb
+D:\папка\TASK4\TASK4\obj\Debug\TASK4.csprojResolveAssemblyReference.cache
+D:\папка\TASK4\TASK4\obj\Debug\TASK4.exe
+D:\папка\TASK4\TASK4\obj\Debug\TASK4.pdb
+D:\папка\TASK44\TASK4\bin\Debug\TASK4.exe.config
+D:\папка\TASK44\TASK4\bin\Debug\TASK4.exe
+D:\папка\TASK44\TASK4\bin\Debug\TASK4.pdb
+D:\папка\TASK44\TASK4\obj\Debug\TASK4.csprojResolveAssemblyReference.cache
+D:\папка\TASK44\TASK4\obj\Debug\TASK4.exe
+D:\папка\TASK44\TASK4\obj\Debug\TASK4.pdb
