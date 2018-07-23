@@ -2,7 +2,7 @@
 
 namespace TASK4
 {
-    public class Group<T> : IGroup<T> where T : IAnimalInZoo
+    public class Group<T> where T : IAnimalInZoo
     {
         private readonly List<T> animals = new List<T>();
         public IReadOnlyCollection<T> Animals
