@@ -1,0 +1,6 @@
+D:\папка\TaskHuman\TaskHuman\bin\Debug\TaskHuman.exe.config
+D:\папка\TaskHuman\TaskHuman\bin\Debug\TaskHuman.exe
+D:\папка\TaskHuman\TaskHuman\bin\Debug\TaskHuman.pdb
+D:\папка\TaskHuman\TaskHuman\obj\Debug\TaskHuman.csprojResolveAssemblyReference.cache
+D:\папка\TaskHuman\TaskHuman\obj\Debug\TaskHuman.exe
+D:\папка\TaskHuman\TaskHuman\obj\Debug\TaskHuman.pdb
