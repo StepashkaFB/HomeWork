@@ -1,0 +1,6 @@
+D:\папка\TaskType\TaskType\bin\Debug\TaskType.exe.config
+D:\папка\TaskType\TaskType\bin\Debug\TaskType.exe
+D:\папка\TaskType\TaskType\bin\Debug\TaskType.pdb
+D:\папка\TaskType\TaskType\obj\Debug\TaskType.csprojResolveAssemblyReference.cache
+D:\папка\TaskType\TaskType\obj\Debug\TaskType.exe
+D:\папка\TaskType\TaskType\obj\Debug\TaskType.pdb
