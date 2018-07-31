@@ -1,0 +1,6 @@
+D:\папка\StringTransform\StringTransform\bin\Debug\StringTransform.exe.config
+D:\папка\StringTransform\StringTransform\bin\Debug\StringTransform.exe
+D:\папка\StringTransform\StringTransform\bin\Debug\StringTransform.pdb
+D:\папка\StringTransform\StringTransform\obj\Debug\StringTransform.csprojResolveAssemblyReference.cache
+D:\папка\StringTransform\StringTransform\obj\Debug\StringTransform.exe
+D:\папка\StringTransform\StringTransform\obj\Debug\StringTransform.pdb
