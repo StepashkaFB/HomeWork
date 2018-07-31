@@ -14,7 +14,7 @@ namespace StringTransform
         {
             for (int Counter = 0; Counter < tempstring.Length; Counter++)
             {
-                if (tempstring[Counter] == null || tempstring[Counter] == "")
+                if (tempstring[Counter] == null)
                 {
                     yield return tempstring[Counter] = "valuable";
                 }
