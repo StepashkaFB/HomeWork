@@ -19,8 +19,9 @@ namespace ListFile
         }
         static void ReadSelectedFile(List<string> FileStorage, int number)//read contents of file.
         {
-                StreamReader streader = new StreamReader(FileStorage[number]);
-                Console.WriteLine(streader.ReadToEnd());
+            StreamReader streader = new StreamReader(FileStorage[number]);
+            Console.WriteLine(streader.ReadToEnd());
+            streader.Close();
         }
         static void Main(string[] args)
         {
