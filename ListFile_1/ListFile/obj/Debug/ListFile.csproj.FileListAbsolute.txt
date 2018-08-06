@@ -1,0 +1,6 @@
+D:\папка\ListFile\ListFile\bin\Debug\ListFile.exe.config
+D:\папка\ListFile\ListFile\bin\Debug\ListFile.exe
+D:\папка\ListFile\ListFile\bin\Debug\ListFile.pdb
+D:\папка\ListFile\ListFile\obj\Debug\ListFile.csprojResolveAssemblyReference.cache
+D:\папка\ListFile\ListFile\obj\Debug\ListFile.exe
+D:\папка\ListFile\ListFile\obj\Debug\ListFile.pdb
