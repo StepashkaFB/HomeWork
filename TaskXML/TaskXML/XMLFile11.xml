@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskXML.Book>
+  <Informatoin_about_book FullName="Name!" Author="Author11">
+    <BookDetails>
+      <Number_of_page>35</Number_of_page>
+    </BookDetails>
+  </Informatoin_about_book>
+</TaskXML.Book>
