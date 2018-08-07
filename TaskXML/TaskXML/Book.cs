@@ -41,8 +41,7 @@ namespace TaskXML
         }
         public void SaveToXml(string path)
         {
-            using (XmlWriter writer = XmlWriter.Create(
-                path,
+            using (XmlWriter writer = XmlWriter.Create(path,
                 new XmlWriterSettings() { Indent = true }))
             {
                 writer.WriteStartDocument();
