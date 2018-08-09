@@ -1,0 +1,7 @@
+D:\папка\TaskXML\TaskXML\bin\Debug\TaskXML.exe.config
+D:\папка\TaskXML\TaskXML\bin\Debug\TaskXML.exe
+D:\папка\TaskXML\TaskXML\bin\Debug\TaskXML.pdb
+D:\папка\TaskXML\TaskXML\obj\Debug\TaskXML.csprojResolveAssemblyReference.cache
+D:\папка\TaskXML\TaskXML\obj\Debug\TaskXML.exe
+D:\папка\TaskXML\TaskXML\obj\Debug\TaskXML.pdb
+D:\папка\TaskXML\TaskXML\bin\Debug\Newtonsoft.Json.dll
