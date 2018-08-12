@@ -55,7 +55,7 @@ namespace TaskCollections
             bool inList = false;
             for (int Counter = 0; Counter < Count; Counter++)
             {
-                if (ContentsWorker[Counter] == value)
+                if (ContentsWorker[Counter] == (Worker)value)
                 {
                     inList = true;
                     break;
@@ -69,7 +69,7 @@ namespace TaskCollections
             int itemIndex = -1;
             for (int Counter = 0; Counter < Count; Counter++)
             {
-                if (ContentsWorker[Counter] == value)
+                if (ContentsWorker[Counter] == (Worker)value)
                 {
                     itemIndex = Counter;
                     break;
