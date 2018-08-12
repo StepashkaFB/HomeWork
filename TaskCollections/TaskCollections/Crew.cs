@@ -38,7 +38,6 @@ namespace TaskCollections
             {
                 ContentsWorker[_count] = (Worker)value;
                 _count++;
-
                 return (_count - 1);
             }
             else
@@ -46,12 +45,11 @@ namespace TaskCollections
                 return -1;
             }
         }
-
+        
         public void Clear()
         {
             _count = 0;
         }
-
         public bool Contains(object value)
         {
             bool inList = false;
