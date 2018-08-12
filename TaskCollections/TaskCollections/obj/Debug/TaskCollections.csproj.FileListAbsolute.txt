@@ -1,0 +1,6 @@
+D:\папка\TaskCollections\TaskCollections\bin\Debug\TaskCollections.exe.config
+D:\папка\TaskCollections\TaskCollections\bin\Debug\TaskCollections.exe
+D:\папка\TaskCollections\TaskCollections\bin\Debug\TaskCollections.pdb
+D:\папка\TaskCollections\TaskCollections\obj\Debug\TaskCollections.csprojResolveAssemblyReference.cache
+D:\папка\TaskCollections\TaskCollections\obj\Debug\TaskCollections.exe
+D:\папка\TaskCollections\TaskCollections\obj\Debug\TaskCollections.pdb
