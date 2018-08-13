@@ -1,0 +1,6 @@
+D:\папка\TaksEncrypt\TaksEncrypt\bin\Debug\TaksEncrypt.exe.config
+D:\папка\TaksEncrypt\TaksEncrypt\bin\Debug\TaksEncrypt.exe
+D:\папка\TaksEncrypt\TaksEncrypt\bin\Debug\TaksEncrypt.pdb
+D:\папка\TaksEncrypt\TaksEncrypt\obj\Debug\TaksEncrypt.csprojResolveAssemblyReference.cache
+D:\папка\TaksEncrypt\TaksEncrypt\obj\Debug\TaksEncrypt.exe
+D:\папка\TaksEncrypt\TaksEncrypt\obj\Debug\TaksEncrypt.pdb
