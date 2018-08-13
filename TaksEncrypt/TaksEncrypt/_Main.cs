@@ -5,7 +5,6 @@ namespace TaksEncrypt
 {
     class _Main
     {
-
         static void Main(string[] args)
         {
             RSACryptoServiceProvider RSA = new RSACryptoServiceProvider();
