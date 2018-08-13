@@ -1,0 +1,6 @@
+D:\папка\TaskRegular\TaskRegular\bin\Debug\TaskRegular.exe.config
+D:\папка\TaskRegular\TaskRegular\bin\Debug\TaskRegular.exe
+D:\папка\TaskRegular\TaskRegular\bin\Debug\TaskRegular.pdb
+D:\папка\TaskRegular\TaskRegular\obj\Debug\TaskRegular.csprojResolveAssemblyReference.cache
+D:\папка\TaskRegular\TaskRegular\obj\Debug\TaskRegular.exe
+D:\папка\TaskRegular\TaskRegular\obj\Debug\TaskRegular.pdb
