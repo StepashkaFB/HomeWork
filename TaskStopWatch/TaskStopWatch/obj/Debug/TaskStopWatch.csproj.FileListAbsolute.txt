@@ -1,0 +1,6 @@
+D:\папка\TaskStopWatch\TaskStopWatch\bin\Debug\TaskStopWatch.exe.config
+D:\папка\TaskStopWatch\TaskStopWatch\bin\Debug\TaskStopWatch.exe
+D:\папка\TaskStopWatch\TaskStopWatch\bin\Debug\TaskStopWatch.pdb
+D:\папка\TaskStopWatch\TaskStopWatch\obj\Debug\TaskStopWatch.csprojResolveAssemblyReference.cache
+D:\папка\TaskStopWatch\TaskStopWatch\obj\Debug\TaskStopWatch.exe
+D:\папка\TaskStopWatch\TaskStopWatch\obj\Debug\TaskStopWatch.pdb
