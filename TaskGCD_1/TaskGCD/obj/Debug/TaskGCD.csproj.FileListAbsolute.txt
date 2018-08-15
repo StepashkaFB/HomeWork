@@ -1,0 +1,6 @@
+D:\папка\TaskGCD\TaskGCD\bin\Debug\TaskGCD.exe.config
+D:\папка\TaskGCD\TaskGCD\bin\Debug\TaskGCD.exe
+D:\папка\TaskGCD\TaskGCD\bin\Debug\TaskGCD.pdb
+D:\папка\TaskGCD\TaskGCD\obj\Debug\TaskGCD.csprojResolveAssemblyReference.cache
+D:\папка\TaskGCD\TaskGCD\obj\Debug\TaskGCD.exe
+D:\папка\TaskGCD\TaskGCD\obj\Debug\TaskGCD.pdb
