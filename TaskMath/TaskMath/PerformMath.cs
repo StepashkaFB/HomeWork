@@ -82,10 +82,3 @@ namespace TaskMath
         }
     }
 }
-
-
-/*for (int Counter = 0; Counter < Set.Length; Counter++)
-  {
-      Console.WriteLine();     
-  }
-*/
