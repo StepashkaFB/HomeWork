@@ -1,0 +1,6 @@
+D:\папка\TaskMath\TaskMath\bin\Debug\TaskMath.exe.config
+D:\папка\TaskMath\TaskMath\bin\Debug\TaskMath.exe
+D:\папка\TaskMath\TaskMath\bin\Debug\TaskMath.pdb
+D:\папка\TaskMath\TaskMath\obj\Debug\TaskMath.csprojResolveAssemblyReference.cache
+D:\папка\TaskMath\TaskMath\obj\Debug\TaskMath.exe
+D:\папка\TaskMath\TaskMath\obj\Debug\TaskMath.pdb
