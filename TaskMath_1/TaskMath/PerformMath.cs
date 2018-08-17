@@ -35,7 +35,7 @@ namespace TaskMath
             var max = Set.Max();
             return max - min;
         }
-        public static double ExpectedValue( double[] Set)
+        public static double ExpectedValue(double[] Set)
         {
             double sum = 0;
             for (int Counter = 0; Counter < Set.Length; Counter++)
@@ -72,4 +72,3 @@ namespace TaskMath
         }
     }
 }
-
