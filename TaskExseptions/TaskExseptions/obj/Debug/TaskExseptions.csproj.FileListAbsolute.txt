@@ -1,0 +1,6 @@
+D:\папка\TaskExseptions\TaskExseptions\bin\Debug\TaskExseptions.exe.config
+D:\папка\TaskExseptions\TaskExseptions\bin\Debug\TaskExseptions.exe
+D:\папка\TaskExseptions\TaskExseptions\bin\Debug\TaskExseptions.pdb
+D:\папка\TaskExseptions\TaskExseptions\obj\Debug\TaskExseptions.csprojResolveAssemblyReference.cache
+D:\папка\TaskExseptions\TaskExseptions\obj\Debug\TaskExseptions.exe
+D:\папка\TaskExseptions\TaskExseptions\obj\Debug\TaskExseptions.pdb
