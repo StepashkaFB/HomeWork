@@ -10,7 +10,7 @@ namespace TaskExseptions
     class InvalidWorker : Exception
     {
         public int IdentifyOfWorker { get; set; }
-        public InvalidWorker(): base(String.Format("Edding error"))
+        public InvalidWorker(): base(String.Format("Adding error"))
         {
             IdentifyOfWorker = -1;
         }
