@@ -1,0 +1,6 @@
+D:\папка\TaskEvents\TaskEvents\bin\Debug\TaskEvents.exe.config
+D:\папка\TaskEvents\TaskEvents\bin\Debug\TaskEvents.exe
+D:\папка\TaskEvents\TaskEvents\bin\Debug\TaskEvents.pdb
+D:\папка\TaskEvents\TaskEvents\obj\Debug\TaskEvents.csprojResolveAssemblyReference.cache
+D:\папка\TaskEvents\TaskEvents\obj\Debug\TaskEvents.exe
+D:\папка\TaskEvents\TaskEvents\obj\Debug\TaskEvents.pdb
